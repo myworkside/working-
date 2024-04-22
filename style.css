@@ -1,0 +1,33 @@
+body{
+    background-color: wheat;
+    border: 2px solid green;
+   margin: 50PX;
+.no{   
+    background-color: brown;    
+    margin-top: 0px;
+    margin-bottom: 0px;                                                   
+    color: white;
+text-align: center;
+font-size: 75px;
+}
+.imj{
+   float:left;
+width: 50%;
+}
+.tex{
+    float: right;    
+    width: 48%;
+    color: black;
+}
+.imj2{
+    
+    float:right;
+    width: 45%;    
+}
+.tex2{
+    float:left;
+    width: 50%;
+}
+div{
+align-content: center;
+}
